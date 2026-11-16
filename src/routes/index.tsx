@@ -1764,7 +1764,7 @@ function AboutSection() {
             <img
               src={igorAbout.url}
               alt="Igor Almeida Treinador"
-              className="absolute inset-0 h-full w-full object-cover object-top"
+              className="absolute inset-0 h-full w-full object-cover object-[center_22%]"
             />
             <div
               aria-hidden
